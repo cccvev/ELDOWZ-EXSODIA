@@ -5,7 +5,7 @@ from N4Tools.Design import Text
 T=Text()
 about='''هذه اداه من صنع الدوز اكسوديا
 ABOUT: python lang
-coded by REDVIROUS and ELDOZ EXSODIA
+coded by ELDOZ EXSODIA
 
 '''
 arabic=input(T.arabic(about))
